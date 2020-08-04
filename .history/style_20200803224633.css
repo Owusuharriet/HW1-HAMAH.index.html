@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: ;
+    background-image: image(laptop);
+    background-size: cover;
+    background-position: center;
+    
+}
+.content-title{
+    margin-top: 90px;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 2 ease-in-out;
+
+}
+.content-title h1{
+    font-size: 32px;
+    line-height: 10px;
+}
+
+.content-title h2{
+    font-size: 10px;
+}
